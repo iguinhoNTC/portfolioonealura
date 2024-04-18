@@ -1,0 +1,23 @@
+.section__about__me__background{
+    background-color: var(--background-color-about-me);
+    padding: 64px;
+}
+
+.section__about__me{
+
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+
+    justify-content: flex-start;
+
+}
+
+.section__about__me img {
+    width: 140px;
+    height: 52px;
+}
+
+.section__about__me p{
+    width: 751px;
+}
